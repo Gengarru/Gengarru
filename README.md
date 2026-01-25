@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I’m VS aka Gengaru
 
-<!--
-**Gengarru/Gengarru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Fullstack Developer (Angular, .NET)  
+🏍️ Building a premium motorcycle dating app  
+🧠 Focused on clean architecture, auth systems, and modern UI  
+🌍 Based in Turkey, working internationally  
 
-Here are some ideas to get you started:
+### 🔥 Current Projects
+- **BikerMatch** – Tinder-level dating app for motorcycle riders  
+- Automation & backend systems (.NET, JWT, Clean Architecture)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- Angular, TypeScript
+- .NET, C#, JWT Auth
+- TailwindCSS, daisyUI
+- SQL / EF Core
+
+### 📫 Reach me
+- GitHub: https://github.com/Gengarru
