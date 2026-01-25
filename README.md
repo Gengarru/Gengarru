@@ -1,4 +1,4 @@
-# 👋 Hi, I’m VS aka Gengaru
+👋 Hi, I’m Gengarru (aka VS)
 
 🚀 Fullstack Developer (Angular, .NET)  
 🏍️ Building a premium motorcycle dating app  
