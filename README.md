@@ -1,9 +1,8 @@
 👋 Hi, I’m Gengarru (aka VS)
 
 🚀 Fullstack Developer (Angular, .NET)  
-🏍️ Building a premium motorcycle dating app  
 🧠 Focused on clean architecture, auth systems, and modern UI  
-🌍 Based in Turkey, working internationally  
+🌍 working internationally  
 
 ### 🔥 Current Projects
 - **BikerMatch** – Tinder-level dating app for motorcycle riders  
