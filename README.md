@@ -7,6 +7,7 @@
 ### 🔥 Current Projects
 - **BikerMatch** – Tinder-level dating app for motorcycle riders  
 - Automation & backend systems (.NET, JWT, Clean Architecture)
+- Bold Rebellion Template Shop
 
 ### 🛠️ Tech Stack
 - Angular, TypeScript
